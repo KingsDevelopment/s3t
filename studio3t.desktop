@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Studio 3T
+Comment=MongoDB Client
+GenericName=Studio 3T
+Exec=/opt/studio-3t/bin/studio-3t.sh
+Icon=/opt/studio-3t/logo.png
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;RevisionControl;Development;
+MimeType=text/plain;
+NoDisplay=false
+Path=/opt/studio-3t/
+Terminal=false
+X-GNOME-UsesNotifications=false
